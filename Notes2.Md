@@ -1,0 +1,1 @@
+Key points to pull from the readings and the videos would be the risk and challenges, infrastructure as a service, cloud computing deployment models, amazon's perspective, and for the video for a final key point, is for the section of using IaaS, PaaS, and SaaS.
