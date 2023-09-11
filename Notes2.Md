@@ -1,7 +1,7 @@
-Key points to pull from the readings and the videos would be the risk and challenges, infrastructure as a service, cloud computing deployment models, amazon's perspective, and for the video for a final key point, is for the section of using IaaS, PaaS, and SaaS.
+1. Key points to pull from the readings and the videos would be the risk and challenges, infrastructure as a service, cloud computing deployment models, amazon's perspective, and for the video for a final key point, is for the section of using IaaS, PaaS, and SaaS.
 
 2. First quote of interest, "A slightly different evocation of the term "Network Cloud" or "Cloud" was introduced in the early 1990s throughout the networking industry. It referred to an abstraction layer derived in the delivery methods of data across heterogeneous public and semi-public networks that were primarily packet-switched, although cellular networks used the "Cloud" term as well". It was interesting to learn this from reading because it helps me leaen the cloud service system more. Second quote of interest, "a company with sizable batch-centric tasks can complete them as quickly as their application software can scale. Using 100 servers for one hour costs the same as using one server for 100 hours. This "elasticity" of IT resources, achieved without requiring steep initial investments to create a large-scale computing infrastructure, can be extremely compelling." That lesson was interesting because it demeonstrates how the actual economics can be complex  to caculate and assess.  
 
-3.I honestly don't know how to outline here on, but the facts I've learned are the increase of availability and reliability and Amazon's perspective.
+3. I honestly don't know how to outline here on, but the facts I've learned are the increase of availability and reliability and Amazon's perspective.
 
 4. No questions to be asked.
